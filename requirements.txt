@@ -1,0 +1,6 @@
+boto3
+botocore
+python-dotenv
+awscli
+streamlit
+langchain_community
